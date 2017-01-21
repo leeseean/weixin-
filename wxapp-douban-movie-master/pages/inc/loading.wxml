@@ -1,0 +1,2 @@
+<!-- 弹出加载层 -->
+<loading hidden="{{!loading}}">加载中...</loading>

@@ -1,0 +1,4 @@
+<!-- 头部标题 -->
+<view class="page-header">
+  	<text class="page-header-text">{{title}}</text>
+</view>
